@@ -20,7 +20,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/<username>/predictive_maintenance_project.git
+   git clone https://github.com/nikolaevdev/Predictive-Maintenance-Project.git
    cd predictive_maintenance_project
    ```
 
