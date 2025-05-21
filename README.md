@@ -21,7 +21,7 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/nikolaevdev/Predictive-Maintenance-Project.git
-   cd predictive_maintenance_project
+   cd Predictive-Maintenance-Project
    ```
 
 2. Создайте и активируйте виртуальное окружение:
